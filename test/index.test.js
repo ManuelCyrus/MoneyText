@@ -21,3 +21,9 @@ test('milhares', () => {
   expect(porExtenso(1234)).toBe("mil e duzentos e trinta e quatro");
   expect(porExtenso(200000)).toBe("duzentos mil");
 });
+
+test('milhões', () => {
+  expect(porExtenso(1000000)).toBe("um milhão");
+  expect(porExtenso(2000000)).toBe("dois milhões");
+  expect(porExtenso(123456789)).toBe("cento e vinte e três milhões e quatrocentos e cinquenta e seis mil e setecentos e oitenta e nove");
+});
