@@ -1,8 +1,24 @@
 {
-  "devDependencies": {
-    "jest": "^30.0.2"
-  },
+  "name": "moneytext",
+  "version": "1.0.0",
+  "description": "Converte números inteiros em texto por extenso no português brasileiro.",
+  "main": "index.js",
   "scripts": {
-  "test": "jest"
-}
+    "test": "jest"
+  },
+  "keywords": [
+    "por-extenso",
+    "extenso",
+    "numeros",
+    "texto",
+    "brasil",
+    "Angola",
+    "conversor",
+    "financeiro"
+  ],
+  "author": "Manuel Cyrus",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
 }

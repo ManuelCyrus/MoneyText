@@ -8,7 +8,7 @@ test('números simples', () => {
 
 test('dezenas', () => {
   expect(porExtenso(20)).toBe("vinte");
-  expect(porExtenso(30)).toBe("30");
+  expect(porExtenso(30)).toBe("trinta"); //  corrigido aqui
   expect(porExtenso(42)).toBe("quarenta e dois");
 });
 
@@ -16,7 +16,6 @@ test('centenas', () => {
   expect(porExtenso(100)).toBe("cem");
   expect(porExtenso(121)).toBe("cento e vinte e um");
 });
-
 
 test('milhões', () => {
   expect(porExtenso(1000000)).toBe("um milhão");
