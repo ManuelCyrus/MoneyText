@@ -1,16 +1,16 @@
 # 💰 MoneyText
 
-Converte números inteiros em texto por extenso no **português brasileiro**.
+Converts integer numbers into written-out text in **Brazilian Portuguese**.
 
 > 💡 Ideal para gerar boletos, contratos, relatórios contábeis, comprovantes de pagamento, faturas, ou qualquer outra situação que exija valores escritos por extenso.
 
 ---
 
-## ✨ Por que usar o MoneyText?
+## ✨ Why use MoneyText?
 
-Trabalhar com valores numéricos no dia a dia é comum, mas há muitos casos onde os **valores precisam ser escritos por extenso** — seja por exigência legal ou por clareza em documentos formais. 
+Working with numerical values is common in everyday tasks, but there are many cases where **amounts** must be written out in full — whether due to legal requirements or for clarity in formal documents.
 
-O `moneytext` resolve isso com uma função rápida, precisa e fácil de usar. Sem dependências externas, sem configurações complicadas.
+`moneytext`solves this with a fast, accurate, and easy-to-use function. No external dependencies, no complicated setup.
 
 ---
 
